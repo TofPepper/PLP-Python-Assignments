@@ -8,4 +8,4 @@ age = input("How old are you " + name + "?  ")
 location = input("Where is your current location ?  ")
 
 #printing out the personalized message
-print(name + " what a beautiful name. Your age" +str(age) + " looks good on you and " + location + " is such a beautiful place to be "+ name +". Be sure to take pictures of yourself")
+print(name + " what a beautiful name. Your age " +str(age) + " looks good on you and " + location + " is such a beautiful place to be "+ name +". Be sure to take pictures of yourself.")
